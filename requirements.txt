@@ -4,6 +4,6 @@ torchvision==0.17.1
 Pillow==10.3.0
 numpy==1.26.4
 matplotlib==3.8.4
-opencv-python
-scikit-learn
-pandas
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+pandas==2.2.2
